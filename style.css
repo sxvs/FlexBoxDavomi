@@ -1,0 +1,176 @@
+.parent{
+    display: flex;
+    gap: 100px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.p1{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+.p2{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+}
+.p3{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+}
+.p4{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.p6{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: end;
+}
+.p7{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.p10{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+.p11{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.p12{
+    border-radius: 10px;
+    border: solid 2px black;
+    background-color: rgba(153, 93, 181, 1);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.d1{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d2{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d3{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d4{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d5{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    margin: 8px;
+}
+.d6{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d7{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d10{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d11{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
+.d12{
+    background-color: rgba(247, 148, 31, 1);
+    border: solid 2px black;
+    border-radius: 10px;
+    width: 60px;
+    height: 60px;
+    justify-content: start;
+    margin: 8px;
+}
